@@ -1,0 +1,7 @@
+streamlit
+pandas
+python-dotenv
+openai
+dateparser
+langchain_groq
+openpyxl
